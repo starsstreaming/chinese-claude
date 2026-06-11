@@ -1,0 +1,20 @@
+{
+  "name": "chinese-claude",
+  "displayName": "汉化Claude (Chinese Claude)",
+  "version": "1.0.0",
+  "description": "让 Claude 用中英双语对照回复——方便华人使用，也帮你学中文 / Bilingual Chinese-English responses for Claude Code, for Chinese users and Chinese learners",
+  "author": {
+    "name": "<你的名字 Your Name>"
+  },
+  "license": "MIT",
+  "keywords": [
+    "chinese",
+    "中文",
+    "bilingual",
+    "双语",
+    "localization",
+    "汉化",
+    "learn-chinese",
+    "学中文"
+  ]
+}

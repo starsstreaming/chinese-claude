@@ -1,0 +1,16 @@
+{
+  "name": "chinese-claude",
+  "owner": {
+    "name": "<你的名字 Your Name>"
+  },
+  "metadata": {
+    "description": "汉化Claude——中英双语对照回复插件市场 / Bilingual Chinese-English plugin marketplace for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "chinese-claude",
+      "source": "./",
+      "description": "让 Claude 用中英双语对照回复——方便华人使用，也帮你学中文 / Bilingual Chinese-English responses for Claude Code"
+    }
+  ]
+}
