@@ -1,8 +1,8 @@
 {
   "name": "chinese-claude",
   "displayName": "汉化Claude (Chinese Claude)",
-  "version": "1.0.0",
-  "description": "让 Claude 用中英双语对照回复——方便华人使用，也帮你学中文 / Bilingual Chinese-English responses for Claude Code, for Chinese users and Chinese learners",
+  "version": "1.1.0",
+  "description": "汉化你的 Claude Code 使用体验：中文设置助手、命令中文手册、中英双语对照回复 / Chinese settings assistant, command manual, and bilingual responses for Claude Code",
   "author": {
     "name": "<你的名字 Your Name>"
   },
