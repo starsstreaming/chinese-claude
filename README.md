@@ -1,4 +1,4 @@
-# 汉化Claude (chinese-claude)
+﻿# 汉化Claude (chinese-claude)
 
 汉化你的 Claude Code 使用体验：**中文设置助手** + **命令中文手册** + **中英双语对照回复**。方便华人使用，也帮你借技术场景学中文。
 
@@ -33,14 +33,14 @@ Claude Code 的界面官方暂不支持中文，但有了它，设置相关的�
 在 Claude Code 中执行：
 
 ```
-/plugin marketplace add <你的GitHub用户名>/chinese-claude
+/plugin marketplace add StarStreaming/chinese-claude
 /plugin install chinese-claude@chinese-claude
 ```
 
 或在终端中：
 
 ```bash
-claude plugin marketplace add <你的GitHub用户名>/chinese-claude
+claude plugin marketplace add StarStreaming/chinese-claude
 claude plugin install chinese-claude@chinese-claude
 ```
 
@@ -49,7 +49,7 @@ claude plugin install chinese-claude@chinese-claude
 把本仓库 clone（或复制）到个人技能目录，下次启动自动加载：
 
 ```bash
-git clone https://github.com/<你的GitHub用户名>/chinese-claude ~/.claude/skills/chinese-claude
+git clone https://github.com/StarStreaming/chinese-claude ~/.claude/skills/chinese-claude
 ```
 
 ### 方式三：开发调试
@@ -120,4 +120,4 @@ Claude Code 自身的界面文字（菜单、按钮、设置面板）编译在�
 
 Commands: `/shezhi` (settings in Chinese), `/caidan` (command manual), `/quanxian` (permissions in Chinese), `/shuangyu [on|off]` (toggle bilingual mode), `/fanti` (switch to Traditional Chinese, including terminology differences), `/jianti` (back to Simplified), `/shuyu <term>` (look up a term with pinyin).
 
-Install: `/plugin marketplace add <your-github-username>/chinese-claude` then `/plugin install chinese-claude@chinese-claude`. Pure Markdown/JSON — no executable code, cross-platform. Note: the plugin localizes Claude's responses, not Claude Code's built-in UI. MIT licensed; contributions welcome.
+Install: `/plugin marketplace add StarStreaming/chinese-claude` then `/plugin install chinese-claude@chinese-claude`. Pure Markdown/JSON — no executable code, cross-platform. Note: the plugin localizes Claude's responses, not Claude Code's built-in UI. MIT licensed; contributions welcome.

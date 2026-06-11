@@ -1,7 +1,8 @@
 {
   "name": "chinese-claude",
   "owner": {
-    "name": "<你的名字 Your Name>"
+    "name": "StarStreaming",
+    "url": "https://github.com/StarStreaming"
   },
   "metadata": {
     "description": "汉化Claude——中英双语对照回复插件市场 / Bilingual Chinese-English plugin marketplace for Claude Code"
