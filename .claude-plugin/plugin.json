@@ -5,10 +5,10 @@
   "description": "汉化你的 Claude Code 使用体验：中文设置助手、命令中文手册、中英双语对照回复 / Chinese settings assistant, command manual, and bilingual responses for Claude Code",
   "author": {
     "name": "StarStreaming",
-    "url": "https://github.com/StarStreaming"
+    "url": "https://github.com/starsstreaming"
   },
-  "homepage": "https://github.com/StarStreaming/chinese-claude",
-  "repository": "https://github.com/StarStreaming/chinese-claude",
+  "homepage": "https://github.com/starsstreaming/chinese-claude",
+  "repository": "https://github.com/starsstreaming/chinese-claude",
   "license": "MIT",
   "keywords": [
     "chinese",
